@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Stargazers over time](https://starchart.cc/romelgomez/nat.svg)](https://github.com/romelgomez/nat)
