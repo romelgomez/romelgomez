@@ -12,5 +12,4 @@ I’ve been coding for 20 years and have worked with a lot of different tech, li
 #### I'm currently learning:
 
 - [Astro](https://astro.build/)
-- [Vite](https://vitejs.dev/)
 - [Rust](https://www.rust-lang.org/)
